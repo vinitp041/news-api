@@ -32,4 +32,5 @@ run:
          
 This command will start your React development server, and you should be able to view your news website at http://localhost:3000 in your web browser.
 
-Feel free to customize the README file as needed for your specific project.
+Developed By
+~Vinit Patil
